@@ -4,7 +4,7 @@
 }
 
 .bg-primary{
-    background-color: #2b4999;
+    background-color: #2b4899;
 }
 
 .bg-white{
@@ -25,10 +25,10 @@
 
 
 .m-large{
-    margin: 80px;
+    margin: 80px 20px;
 }
 .m-medium{
-    margin: 40px;
+    margin: 40px 20px;
 }
 .m-small{
     margin: 12px;
